@@ -1,0 +1,8 @@
+# Add your project screenshots here
+# Examples:
+# - ecotech-project.jpg (600x400px)
+# - coastal-resort.jpg (600x400px)  
+# - fintech-app.jpg (600x400px)
+# - mombasa-hub.jpg (400x300px)
+# - swahili-design.jpg (400x300px)
+# - ocean-blog.jpg (400x300px)

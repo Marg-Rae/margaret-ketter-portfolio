@@ -1,0 +1,5 @@
+# Add your blog post featured images here
+# Examples:
+# - digital-strategy-africa.jpg (400x250px)
+# - cultural-design-kenya.jpg (400x250px)
+# - creative-communities.jpg (400x250px)
